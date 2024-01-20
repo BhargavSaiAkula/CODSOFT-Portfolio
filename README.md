@@ -7,4 +7,4 @@
 ---
 
 ## Home
-![Home](https://github.com/BhargavSaiAkula/LandingPage/blob/main/images/Home.PNG)
+![Home](https://github.com/BhargavSaiAkula/Portfolio/blob/main/assets/images/porfoilo.PNG)
